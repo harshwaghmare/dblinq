@@ -1,0 +1,6 @@
+C:\DBLinq\build.dbg\sqlmetal.exe.config
+C:\DBLinq\build.dbg\SqlMetal_test_sqlite.dll
+C:\DBLinq\build.dbg\SqlMetal_test_sqlite.pdb
+C:\DBLinq\src\DbMetal\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbMetal\Test\obj\Debug\SqlMetal_test_sqlite.dll
+C:\DBLinq\src\DbMetal\Test\obj\Debug\SqlMetal_test_sqlite.pdb

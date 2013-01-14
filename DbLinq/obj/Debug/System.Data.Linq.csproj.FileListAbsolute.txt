@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\System.Data.Linq.dll
+C:\DBLinq\build.dbg\System.Data.Linq.pdb
+C:\DBLinq\src\DbLinq\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq\obj\Debug\System.Data.Linq.dll
+C:\DBLinq\src\DbLinq\obj\Debug\System.Data.Linq.pdb

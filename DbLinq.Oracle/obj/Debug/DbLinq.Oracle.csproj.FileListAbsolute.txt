@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq.Oracle.dll
+C:\DBLinq\build.dbg\DbLinq.Oracle.pdb
+C:\DBLinq\src\DbLinq.Oracle\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.dll
+C:\DBLinq\src\DbLinq.Oracle\obj\Debug\DbLinq.Oracle.pdb

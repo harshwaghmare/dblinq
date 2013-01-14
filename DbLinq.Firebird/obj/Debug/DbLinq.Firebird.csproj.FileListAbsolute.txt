@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq.Firebird.dll
+C:\DBLinq\build.dbg\DbLinq.Firebird.pdb
+C:\DBLinq\src\DbLinq.Firebird\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.dll
+C:\DBLinq\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.pdb

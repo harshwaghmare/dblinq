@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq_test_ndb_strict.dll
+C:\DBLinq\build.dbg\DbLinq_test_ndb_strict.pdb
+C:\DBLinq\src\DbLinq\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq\Test\obj\Debug\DbLinq_test_ndb_strict.dll
+C:\DBLinq\src\DbLinq\Test\obj\Debug\DbLinq_test_ndb_strict.pdb

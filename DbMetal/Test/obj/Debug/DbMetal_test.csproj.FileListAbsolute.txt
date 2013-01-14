@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbMetal_test.dll
+C:\DBLinq\build.dbg\DbMetal_test.pdb
+C:\DBLinq\src\DbMetal\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbMetal\Test\obj\Debug\DbMetal_test.dll
+C:\DBLinq\src\DbMetal\Test\obj\Debug\DbMetal_test.pdb

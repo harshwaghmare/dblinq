@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq.MySql.dll
+C:\DBLinq\build.dbg\DbLinq.MySql.pdb
+C:\DBLinq\src\DbLinq.MySql\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.dll
+C:\DBLinq\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.pdb

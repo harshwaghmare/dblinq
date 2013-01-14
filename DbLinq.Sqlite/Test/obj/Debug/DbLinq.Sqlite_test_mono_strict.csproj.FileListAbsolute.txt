@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq.Sqlite_test_mono_strict.dll
+C:\DBLinq\build.dbg\DbLinq.Sqlite_test_mono_strict.pdb
+C:\DBLinq\src\DbLinq.Sqlite\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test_mono_strict.dll
+C:\DBLinq\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test_mono_strict.pdb

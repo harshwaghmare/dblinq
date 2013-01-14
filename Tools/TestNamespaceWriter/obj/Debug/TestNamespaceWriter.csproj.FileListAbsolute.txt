@@ -1,0 +1,6 @@
+C:\DBLinq\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.exe.config
+C:\DBLinq\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.exe
+C:\DBLinq\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.pdb
+C:\DBLinq\src\Tools\TestNamespaceWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.exe
+C:\DBLinq\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.pdb

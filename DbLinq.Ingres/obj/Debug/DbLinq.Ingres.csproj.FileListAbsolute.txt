@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq.Ingres.dll
+C:\DBLinq\build.dbg\DbLinq.Ingres.pdb
+C:\DBLinq\src\DbLinq.Ingres\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.dll
+C:\DBLinq\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.pdb

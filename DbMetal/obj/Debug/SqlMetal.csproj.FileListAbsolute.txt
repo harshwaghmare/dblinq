@@ -1,0 +1,6 @@
+C:\DBLinq\build.dbg\sqlmetal.exe.config
+C:\DBLinq\build.dbg\sqlmetal.exe
+C:\DBLinq\build.dbg\sqlmetal.pdb
+C:\DBLinq\src\DbMetal\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbMetal\obj\Debug\sqlmetal.exe
+C:\DBLinq\src\DbMetal\obj\Debug\sqlmetal.pdb

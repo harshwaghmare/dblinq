@@ -1,0 +1,6 @@
+C:\DBLinq\build.dbg\DbLinq.Oracle_test_odp.exe.config
+C:\DBLinq\build.dbg\DbLinq.Oracle_test_odp.exe
+C:\DBLinq\build.dbg\DbLinq.Oracle_test_odp.pdb
+C:\DBLinq\src\DbLinq.Oracle\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.exe
+C:\DBLinq\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.pdb

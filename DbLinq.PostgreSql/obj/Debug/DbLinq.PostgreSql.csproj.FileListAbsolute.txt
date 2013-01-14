@@ -1,0 +1,5 @@
+C:\DBLinq\build.dbg\DbLinq.PostgreSql.dll
+C:\DBLinq\build.dbg\DbLinq.PostgreSql.pdb
+C:\DBLinq\src\DbLinq.PostgreSql\obj\Debug\ResolveAssemblyReference.cache
+C:\DBLinq\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.dll
+C:\DBLinq\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.pdb
